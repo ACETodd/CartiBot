@@ -1,0 +1,17 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd",
+  "license": "ISC",
+  "dependencies": {
+    "discord-emoji-convert": "^1.6.0",
+    "discord.js": "^12.5.1",
+    "dotenv-flow": "^3.2.0",
+    "random-case": "^1.0.0"
+  }
+}
